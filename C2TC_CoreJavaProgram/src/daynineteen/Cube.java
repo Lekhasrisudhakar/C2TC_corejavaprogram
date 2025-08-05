@@ -1,7 +1,7 @@
 package daynineteen;
-	@FunctionalInterface
-	interface Cube {
-		int calculate(int a); // only one abstract method
-		
-	}
+@FunctionalInterface
+interface Cube {
+	int calculate(int a); // only one abstract method
+	
+}
 
